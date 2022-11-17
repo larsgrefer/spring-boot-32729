@@ -1,0 +1,12 @@
+{
+  "properties": [
+    {
+      "name": "old.serverSSLPort",
+      "type": "java.lang.Integer",
+      "deprecation": {
+        "replacement": "new.server-ssl-port",
+        "level": "error"
+      }
+    }
+  ]
+}
